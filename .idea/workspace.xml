@@ -5,17 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b2952ef-aecc-4d22-90f7-25efc661c047" name="Changes" comment="&quot;:)&quot;">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23_carGame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_forLoop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25_forLoopExcercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26_nestedLoops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27_nestedLoopExcercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29_listExcercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30_2DList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31_listMethods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/32_listMethodExcercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33_Tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34_Unpacking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/35_dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36_dictionariesExcercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/37_emojiConverter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/38_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39_Parameters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40_keywordArguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/41_returnStatement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/42_creatingResuableFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/43_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/44_ModulesTutorial/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/44_ModulesTutorial/converters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/45_ModulesExcercise/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/45_ModulesExcercise/reqFun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/46_packages/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/46_packages/ecommerce/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/46_packages/ecommerce/shipping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/47_RandomNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/48_RandomNumberExcercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/49_files_and_directories/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/50_AutomationProject/Supplementary/transactions.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/50_AutomationProject/automation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,11 +56,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/20_PROJECT_WeightConverter.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/32_listMethodExcercise.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/31_listMethods.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/44_ModulesTutorial/app.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/48_RandomNumberExcercise.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/46_packages/app.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/27_nestedLoopExcercise.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/anaconda3/envs/pythonLearn/Lib/random.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/04_takingInput.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/03_variablesExcercise.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/08_strings.py" root0="SKIP_INSPECTION" />
@@ -78,8 +102,14 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.32_listMethodExcercise">
-    <configuration name="28_lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\pythonLearn\AutomationProject" />
+      <recent name="C:\Users\Admin\Desktop\pythonLearn\46_packages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.automation">
+    <configuration name="47_RandomNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonLearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,7 +122,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/28_lists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/47_RandomNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="29_listExcercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="48_RandomNumberExcercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonLearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +144,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/29_listExcercise.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/48_RandomNumberExcercise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="30_2DList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="app (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonLearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,12 +161,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/46_packages" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30_2DList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/46_packages/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +175,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="31_listMethods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="app (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonLearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,12 +183,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/49_files_and_directories" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/31_listMethods.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/49_files_and_directories/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +197,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="32_listMethodExcercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="automation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonLearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,12 +205,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/50_AutomationProject" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/32_listMethodExcercise.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/50_AutomationProject/automation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.32_listMethodExcercise" />
-        <item itemvalue="Python.31_listMethods" />
-        <item itemvalue="Python.30_2DList" />
-        <item itemvalue="Python.29_listExcercise" />
-        <item itemvalue="Python.28_lists" />
+        <item itemvalue="Python.automation" />
+        <item itemvalue="Python.app (3)" />
+        <item itemvalue="Python.48_RandomNumberExcercise" />
+        <item itemvalue="Python.47_RandomNumber" />
+        <item itemvalue="Python.app (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +256,11 @@
       <workItem from="1629372808439" duration="1154000" />
       <workItem from="1629381821363" duration="592000" />
       <workItem from="1629528207318" duration="218000" />
-      <workItem from="1629528452779" duration="5508000" />
+      <workItem from="1629528452779" duration="5599000" />
+      <workItem from="1629559773754" duration="1821000" />
+      <workItem from="1629620442009" duration="1587000" />
+      <workItem from="1629637631479" duration="3405000" />
+      <workItem from="1629692255128" duration="8923000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;:)&quot;">
       <created>1629209771016</created>
@@ -235,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629209771016</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;:)&quot;">
+      <created>1629536017393</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1629536017394</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,37 +302,54 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonLearn$firstProgram.coverage" NAME="firstProgram Coverage Results" MODIFIED="1629096044866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonLearn$10_formattedStrings.coverage" NAME="10_formattedStrings Coverage Results" MODIFIED="1629182910514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonLearn$22_GuessingGame.coverage" NAME="22_GuessingGame Coverage Results" MODIFIED="1629209659148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonLearn$12_arithmeticOperations.coverage" NAME="12_arithmeticOperations Coverage Results" MODIFIED="1629191144920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonLearn$16_IfStatementsExcercise.coverage" NAME="16_IfStatementsExcercise Coverage Results" MODIFIED="1629207589891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonLearn$26_nestedLoops.coverage" NAME="26_nestedLoops Coverage Results" MODIFIED="1629362518010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonLearn$14_mathFunctions.coverage" NAME="14_mathFunctions Coverage Results" MODIFIED="1629203475993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonLearn$25_forLoopExcercise.coverage" NAME="25_forLoopExcercise Coverage Results" MODIFIED="1629362275053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonLearn$31_listMethods.coverage" NAME="31_listMethods Coverage Results" MODIFIED="1629535084157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonLearn$17_logicalOperators.coverage" NAME="17_logicalOperators Coverage Results" MODIFIED="1629207167434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonLearn$24_forLoop.coverage" NAME="24_forLoop Coverage Results" MODIFIED="1629361304298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonLearn$21_whileLoop.coverage" NAME="21_whileLoop Coverage Results" MODIFIED="1629208842242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonLearn$takingInput.coverage" NAME="takingInput Coverage Results" MODIFIED="1629099691925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonLearn$20_PROJECT_WeightConverter.coverage" NAME="20_PROJECT_WeightConverter Coverage Results" MODIFIED="1629208582565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonLearn$variables.coverage" NAME="variables Coverage Results" MODIFIED="1629097812873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonLearn$19_comparisionOperator.coverage" NAME="19_comparisionOperator Coverage Results" MODIFIED="1629207480913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonLearn$29_listExcercise.coverage" NAME="29_listExcercise Coverage Results" MODIFIED="1629529743572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonLearn$32_listMethodExcercise.coverage" NAME="32_listMethodExcercise Coverage Results" MODIFIED="1629535931071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonLearn$43_exceptions.coverage" NAME="43_exceptions Coverage Results" MODIFIED="1629641029188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonLearn$30_2DList.coverage" NAME="30_2DList Coverage Results" MODIFIED="1629533344237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonLearn$06_typeConversion.coverage" NAME="06_typeConversion Coverage Results" MODIFIED="1629104334626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonLearn$28_lists.coverage" NAME="28_lists Coverage Results" MODIFIED="1629373851153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonLearn$firstProgram__1_.coverage" NAME="firstProgram (1) Coverage Results" MODIFIED="1629095610222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonLearn$takingInputExcercise.coverage" NAME="takingInputExcercise Coverage Results" MODIFIED="1629099698688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonLearn$33_Tuples.coverage" NAME="33_Tuples Coverage Results" MODIFIED="1629560070998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonLearn$41_returnStatement.coverage" NAME="41_returnStatement Coverage Results" MODIFIED="1629640242401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonLearn$40_keywordArguments.coverage" NAME="40_keywordArguments Coverage Results" MODIFIED="1629639534385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonLearn$09_stringExcercise.coverage" NAME="09_stringExcercise Coverage Results" MODIFIED="1629127991010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonLearn$42_creatingResuableFunction.coverage" NAME="42_creatingResuableFunction Coverage Results" MODIFIED="1629640509855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonLearn$app__2_.coverage" NAME="app (2) Coverage Results" MODIFIED="1629695833612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/46_packages" />
+    <SUITE FILE_PATH="coverage/pythonLearn$27_nestedLoopExcercise.coverage" NAME="27_nestedLoopExcercise Coverage Results" MODIFIED="1629372271491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonLearn$18_comparisionOperator.coverage" NAME="18_comparisionOperator Coverage Results" MODIFIED="1629207178491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonLearn$47_RandomNumber.coverage" NAME="47_RandomNumber Coverage Results" MODIFIED="1629696468686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonLearn$22_GuessingGame.coverage" NAME="22_GuessingGame Coverage Results" MODIFIED="1629209659148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonLearn$34_Unpacking.coverage" NAME="34_Unpacking Coverage Results" MODIFIED="1629560506917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonLearn$12_arithmeticOperations.coverage" NAME="12_arithmeticOperations Coverage Results" MODIFIED="1629191144920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonLearn$16_IfStatementsExcercise.coverage" NAME="16_IfStatementsExcercise Coverage Results" MODIFIED="1629207589891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonLearn$39_Parameters.coverage" NAME="39_Parameters Coverage Results" MODIFIED="1629638631780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonLearn$14_mathFunctions.coverage" NAME="14_mathFunctions Coverage Results" MODIFIED="1629203475993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonLearn$17_logicalOperators.coverage" NAME="17_logicalOperators Coverage Results" MODIFIED="1629207167434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonLearn$24_forLoop.coverage" NAME="24_forLoop Coverage Results" MODIFIED="1629361304298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonLearn$21_whileLoop.coverage" NAME="21_whileLoop Coverage Results" MODIFIED="1629208842242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonLearn$app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1629694967350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/45_ModulesExcercise" />
+    <SUITE FILE_PATH="coverage/pythonLearn$19_comparisionOperator.coverage" NAME="19_comparisionOperator Coverage Results" MODIFIED="1629207480913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonLearn$32_listMethodExcercise.coverage" NAME="32_listMethodExcercise Coverage Results" MODIFIED="1629535931071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonLearn$06_typeConversion.coverage" NAME="06_typeConversion Coverage Results" MODIFIED="1629104334626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonLearn$35_dictionaries.coverage" NAME="35_dictionaries Coverage Results" MODIFIED="1629620720837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonLearn$takingInputExcercise.coverage" NAME="takingInputExcercise Coverage Results" MODIFIED="1629099698688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonLearn$Run.coverage" NAME="Run Coverage Results" MODIFIED="1629095179914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/pythonLearn$07_typeConversionExcercise.coverage" NAME="07_typeConversionExcercise Coverage Results" MODIFIED="1629104774108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonLearn$automation.coverage" NAME="automation Coverage Results" MODIFIED="1629701358828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/50_AutomationProject" />
+    <SUITE FILE_PATH="coverage/pythonLearn$37_emojiConverter.coverage" NAME="37_emojiConverter Coverage Results" MODIFIED="1629621970248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonLearn$variablesExcercise.coverage" NAME="variablesExcercise Coverage Results" MODIFIED="1629098119410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonLearn$23_carGame.coverage" NAME="23_carGame Coverage Results" MODIFIED="1629231148438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonLearn$11_stringMethods.coverage" NAME="11_stringMethods Coverage Results" MODIFIED="1629190831753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonLearn$27_nestedLoopExcercise.coverage" NAME="27_nestedLoopExcercise Coverage Results" MODIFIED="1629372271491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonLearn$08_strings.coverage" NAME="08_strings Coverage Results" MODIFIED="1629127833491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonLearn$15_ifStatements.coverage" NAME="15_ifStatements Coverage Results" MODIFIED="1629204218625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonLearn$18_comparisionOperator.coverage" NAME="18_comparisionOperator Coverage Results" MODIFIED="1629207178491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonLearn$app.coverage" NAME="app Coverage Results" MODIFIED="1629095503031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonLearn$38_functions.coverage" NAME="38_functions Coverage Results" MODIFIED="1629638197110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonLearn$48_RandomNumberExcercise.coverage" NAME="48_RandomNumberExcercise Coverage Results" MODIFIED="1629696781664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonLearn$app.coverage" NAME="app Coverage Results" MODIFIED="1629694651565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/44_ModulesTutorial" />
+    <SUITE FILE_PATH="coverage/pythonLearn$36_dictionariesExcercise.coverage" NAME="36_dictionariesExcercise Coverage Results" MODIFIED="1629621344951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonLearn$app__3_.coverage" NAME="app (3) Coverage Results" MODIFIED="1629697902740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/49_files_and_directories" />
   </component>
 </project>
